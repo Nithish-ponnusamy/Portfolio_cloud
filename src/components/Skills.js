@@ -148,16 +148,7 @@ const Skills = () => {
         },
       ],
     },
-    {
-      name: "AI & ML",
-      skills: [
-        {
-          name: "TensorFlow",
-          icon: <SiTensorflow className="text-4xl" />,
-          color: "#FF6F00",
-        },
-      ],
-    },
+   
   ];
 
   // Get all categories for filter
